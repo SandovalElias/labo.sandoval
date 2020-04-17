@@ -1,6 +1,6 @@
 
 | Nombre  | Funcion                                                                                   | Ejemplo                                          
- -------- | ------------------------------------------------------------------------------------------|
+ -------- | ------------------------------------------------------------------------------------------| -------------
  more     |  muestra el resultado de la ejecucion de un comando en la terminal de una pagina a la vez | ps -ef | more
  sort     |  ordena listas de archivos y salida de segun varios criterios                             | sort archivo.txt
  wc       |  hace un conteo de bytes , lineas , caracteres , lineas y palabras de un archivo(s)       | wc archivo      
