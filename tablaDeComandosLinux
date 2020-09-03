@@ -2,8 +2,8 @@
 | Nombre  | Funcion                                                                                   | Ejemplo                                          
  -------- | ------------------------------------------------------------------------------------------| -------------
  more     |  muestra el resultado de la ejecucion de un comando en la terminal de una pagina a la vez | ps -ef | more
- sort     |  ordena listas de archivos y salida de segun varios criterios                             | sort archivo.txt
- wc       |  hace un conteo de bytes , lineas , caracteres , lineas y palabras de un archivo(s)       | wc archivo      
+ sort     |  ordena lineas de archivos de entrada segun varios criterios                              | sort archivo.txt
+ wc       |  hace un conteo de bytes , lineas , caracteres , lineas y palabras de un/os archivo(s)    | wc archivo      
  sed      |  edita datos basado en las reglas que le proporcione el usario                            | sed ‘s/UNIX/g’text.txt
  awk      |  procesa patrones en lineas de texto                                                      | awk '{ print $1 }' archivo
  find     |  buscador de archivos                                                                     | find . -size 0c
